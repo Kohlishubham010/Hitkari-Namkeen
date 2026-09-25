@@ -1,0 +1,2 @@
+# Hitkari-Namkeen
+static
