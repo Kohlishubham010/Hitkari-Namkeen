@@ -14,3 +14,8 @@
     }
 
 }
+@media (max-width: 470px) {
+    .mascot {
+        height: 100%;
+    }
+}
