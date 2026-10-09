@@ -149,7 +149,7 @@
                             <li class="breadcrumb-item">
                                 <a href="index.php">Home</a>
                             </li>
-                            <li class="breadcrumb-item active" aria-current="page">Aloo Papdi (Chips)</li>
+                            <li class="breadcrumb-item active" aria-current="page">Fasting Chips</li>
                         </ol>
                     </nav>
                 </div>
@@ -160,17 +160,17 @@
         
 <section id="contact-us">
     <div class="faq-heading" data-aos="fade-up" data-aos-duration="1500">
-        <h2>Aloo Papdi (Chips)</h2>
+        <h2>Fasting Chips</h2>
         <p>
             At Hitkari Namkeen, we offer crispy and delicious
-            Aloo Papdi (Chips), prepared using quality potatoes
+            Fasting Chips, prepared using quality potatoes
             and a flavorful blend of traditional Indian spices.
             Known for their crunchy texture, savory taste,
             and irresistible crispiness, our Aloo Papdi Chips
             are a perfect choice for everyday snacking, tea-time
             refreshments, parties, and family gatherings.
             As a manufacturer, wholesaler, and supplier, we
-            offer Aloo Papdi (Chips) in different pack sizes
+            offer Fasting Chips in different pack sizes
             at competitive wholesale rates for retailers,
             distributors, and bulk buyers. We provide delivery
             across India and also accept bulk orders with
@@ -198,12 +198,12 @@
             <div class="col-lg-6 col-md-6 col-sm-12 col-12">
 
                 <h2 class="product-title">
-                    Aloo Papdi (Chips) 200 gm
+                    Fasting Chips 200 gm
                 </h2>
 
                 <p class="price">
                     MRP:
-                    <strong>₹ 80</strong>
+                    <strong>₹ 20</strong>
                     / Pack
                     <a href="#">Get Latest Price</a>
                 </p>
@@ -255,7 +255,7 @@
 
                     <tr>
                         <td>Product Type</td>
-                        <td>Aloo Papdi (Chips)</td>
+                        <td>Fasting Chips</td>
                     </tr>
 
                     <tr>
@@ -265,7 +265,7 @@
 
                     <tr>
                         <td>MRP</td>
-                        <td>₹ 80 / Pack</td>
+                        <td>₹ 20 / Pack</td>
                     </tr>
 
                     <tr>
@@ -304,7 +304,7 @@
 
                 <p class="description">
                     Hitkari Namkeen offers crispy and delicious
-                    Aloo Papdi (Chips), prepared using quality
+                    Fasting Chips, prepared using quality
                     potatoes and a flavorful blend of traditional
                     Indian spices. Known for their crunchy
                     texture, savory taste, and irresistible
@@ -312,7 +312,7 @@
                     perfect choice for everyday snacking,
                     tea-time refreshments, parties, and family
                     gatherings. Available in convenient 200 gm
-                    packets at an MRP of Rs. 80, our Aloo Papdi
+                    packets at an MRP of Rs. 20, our Aloo Papdi
                     Chips are carefully packed to maintain
                     freshness, taste, and quality. As a
                     manufacturer, wholesaler, and supplier,

@@ -560,7 +560,7 @@
                          alt="Tasty Namkeen">
                 </div>
 
-                <h3>Plain Namkeen</h3>
+                <h3>Gathiya Namkeen</h3>
 
                 <div class="product-buttons">
 

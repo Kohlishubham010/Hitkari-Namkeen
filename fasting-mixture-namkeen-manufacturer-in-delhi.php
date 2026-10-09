@@ -169,7 +169,7 @@
             occasions, our Fasting Mixture Namkeen is a flavorful
             choice for traditional snacking, subject to individual
             fasting dietary requirements. Available in convenient
-            150 gm packets at an MRP of Rs. 95, our Fasting
+            150 gm packets at an MRP of Rs. 20, our Fasting
             Mixture is carefully packed to maintain its freshness
             and quality. As a manufacturer, wholesaler, and
             supplier, we offer competitive wholesale rates for
@@ -204,7 +204,7 @@
 
                 <p class="price">
                     MRP:
-                    <strong>₹ 95</strong>
+                    <strong>₹ 20</strong>
                     / Pack
                     <a href="#">Get Latest Price</a>
                 </p>
@@ -266,7 +266,7 @@
 
                     <tr>
                         <td>MRP</td>
-                        <td>₹ 95 / Pack</td>
+                        <td>₹ 20 / Pack</td>
                     </tr>
 
                     <tr>
@@ -315,7 +315,7 @@
                     Ekadashi, and other fasting celebrations,
                     subject to individual dietary requirements.
                     Available in convenient 150 gm packets with
-                    an MRP of Rs. 95, our Fasting Mixture Namkeen
+                    an MRP of Rs. 20, our Fasting Mixture Namkeen
                     is suitable for everyday snacking and festive
                     occasions. Hitkari Namkeen supplies this
                     product to retailers, wholesalers,

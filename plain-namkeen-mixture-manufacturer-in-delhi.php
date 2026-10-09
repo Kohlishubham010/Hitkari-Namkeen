@@ -149,7 +149,7 @@
                             <li class="breadcrumb-item">
                                 <a href="index.php">Home</a>
                             </li>
-                            <li class="breadcrumb-item active" aria-current="page">Plain Namkeen</li>
+                            <li class="breadcrumb-item active" aria-current="page">Gathiya Namkeen</li>
                         </ol>
                     </nav>
                 </div>
@@ -160,16 +160,16 @@
         
 <section id="contact-us">
     <div class="faq-heading" data-aos="fade-up" data-aos-duration="1500">
-        <h2>Plain Namkeen</h2>
+        <h2>Gathiya Namkeen</h2>
         <p>
-            At Hitkari Namkeen, we offer delicious and crispy Plain
+            At Hitkari Namkeen, we offer delicious and crispy Gathiya
             Namkeen, prepared using quality ingredients to deliver
             an authentic Indian snacking experience. Known for its
             crunchy texture, light seasoning, and traditional
-            savory flavor, our Plain Namkeen is a perfect choice
+            savory flavor, our Gathiya Namkeen is a perfect choice
             for everyday snacking, tea-time refreshments, family
             gatherings, and special occasions. As a trusted
-            manufacturer, wholesaler, and supplier of Plain
+            manufacturer, wholesaler, and supplier of Gathiya
             Namkeen, we provide quality products in different
             packaging sizes at competitive wholesale prices.
             We cater to retailers, distributors, wholesalers,
@@ -191,7 +191,7 @@
             <div class="col-lg-6 col-md-6 col-sm-12 col-12">
                 <div class="product-img-box">
                     <img src="img/category/new plan namkeen.png"
-                         alt="Plain Namkeen - Hitkari Namkeen"
+                         alt="Gathiya Namkeen - Hitkari Namkeen"
                          class="img-fluid">
                 </div>
             </div>
@@ -200,7 +200,7 @@
             <div class="col-lg-6 col-md-6 col-sm-12 col-12">
 
                 <h2 class="product-title">
-                    Plain Namkeen
+                    Gathiya Namkeen
                 </h2>
 
                 <p class="price">
@@ -250,7 +250,7 @@
 
                     <tr>
                         <td>Product Type</td>
-                        <td>Plain Namkeen</td>
+                        <td>Gathiya Namkeen</td>
                     </tr>
 
                     <tr>
@@ -289,15 +289,15 @@
 
                 <p class="description">
                     Hitkari Namkeen offers delicious and crispy
-                    Plain Namkeen, prepared using quality
+                    Gathiya Namkeen, prepared using quality
                     ingredients to deliver an authentic Indian
                     snacking experience. Known for its crunchy
                     texture, light seasoning, and traditional
-                    savory flavor, our Plain Namkeen is an
+                    savory flavor, our Gathiya Namkeen is an
                     excellent choice for everyday snacking,
                     tea-time refreshments, and family gatherings.
                     Carefully packed to maintain freshness and
-                    taste, our Plain Namkeen is suitable for
+                    taste, our Gathiya Namkeen is suitable for
                     households, retailers, wholesalers, and bulk
                     buyers looking for quality traditional
                     Indian snacks.

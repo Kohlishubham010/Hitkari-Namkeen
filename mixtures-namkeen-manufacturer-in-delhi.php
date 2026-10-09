@@ -149,7 +149,7 @@
                             <li class="breadcrumb-item">
                                 <a href="index.php">Home</a>
                             </li>
-                            <li class="breadcrumb-item active" aria-current="page">Mixture Namkeen</li>
+                            <li class="breadcrumb-item active" aria-current="page">Palak Mixture Namkeen</li>
                         </ol>
                     </nav>
                 </div>
@@ -192,7 +192,7 @@
     </h2>
 
     <p class="price">
-        Price: <strong>₹ 90</strong> / Pack
+        Price: <strong>₹ 10</strong> / Pack
         <a href="#">Get Latest Price</a>
     </p>
 

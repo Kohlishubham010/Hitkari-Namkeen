@@ -192,7 +192,7 @@
     </h2>
 
     <p class="price">
-        Price: <strong>₹ 90</strong> / Pack
+        Price: <strong>₹ 10</strong> / Pack
         <a href="#">Get Latest Price</a>
     </p>
 

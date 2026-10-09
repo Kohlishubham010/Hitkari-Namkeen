@@ -210,7 +210,7 @@
                          alt="Aloo Bhujia">
                 </div>
 
-                <h3>Aloo Papdi(Chips)</h3>
+                <h3>Fasting Chips</h3>
 
                 <div class="product-buttons">
 
